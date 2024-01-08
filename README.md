@@ -1,6 +1,6 @@
 # Data Analysis Nanodegree
 
-The Udacity Nanodegree implements project-based learning. This directory is a collection of the three projects required.
+The Udacity Nanodegree implements project-based learning. This directory is a collection of the four projects required.
 
 
 ## Folder Structure
@@ -57,7 +57,7 @@ In this project, I demonstrate the data wrangling processes in fetching CSV, TSV
 ## Project 4: 
 ### Data Visualization
 
- This report is a visual analysis of the Prosper Loan dataset. The data includes more than 100k loans recorded with 81 columns describing both loan and borrower information. I am interested in what factors may affect a Borrower's APR.
+This project is a visual analysis of the Prosper Loan dataset. The data includes more than 100k loans recorded with 81 columns describing both loan and borrower information. I am interested in what factors may affect a Borrower's APR.
  
 
 ![](12222023-data_analysis_nanodegree.svg)
